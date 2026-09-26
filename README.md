@@ -263,36 +263,17 @@ screenshots/simulation-mode.png
 
 ## 📂 Repository Contents
 
-```text
-project/
-└── Online Banking.pkt
-```
+### README.md
+Contains an overview of the project, network architecture, CRC calculation, testing procedure, results, limitations, and future scope.
 
+### Online Banking.pkt
 Contains the Cisco Packet Tracer network project.
 
-```text
-documentation/
-├── PBL REPORT.pdf
-└── FRONT PAGE.pdf
-```
+### PBL REPORT.pdf
+Contains the detailed project report, including the network design, IP addressing, CRC calculation, receiver verification, results, limitations, and conclusion.
 
-Contains the detailed project report and official project cover page.
-
-```text
-presentation/
-└── CN-PBL-PPT.pptx
-```
-
+### CN-PBL-PPT.pptx
 Contains the project presentation.
-
-```text
-screenshots/
-├── topology.png
-├── successful-ping.png
-└── simulation-mode.png
-```
-
-Contains visual evidence from the Packet Tracer project.
 
 ## ▶️ How to Run the Project
 
